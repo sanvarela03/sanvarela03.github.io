@@ -58,6 +58,8 @@ body {
 img {
 
 	filter: brightness(70%);
+	max-width: 600px;
+	max-height: 500px;
 }
 
 mark {
